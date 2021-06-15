@@ -1,0 +1,72 @@
+{
+  "hero": [
+    {
+      
+      "class": "Hero",
+      "topic": "WORK ANYWHERE",
+      "content": "Keep important info handy by syncing your notes to all your devices."
+    },
+    {
+      
+      "class": "Hero",
+      "topic": "CAPTURE WHAT MATTERS",
+      "content": "Add text, images, audio, scans, PDFs, and documents to your notes."
+    },
+    {
+      
+      "class": "Hero",
+      "topic": "YOUR NOTES, YOUR WAY",
+      "content": "Express yourself with formatting tools that help you write how you think."
+    },
+    {
+       
+      "class": "Hero",
+      "topic": "FIND THINGS FAST",
+      "content": "Get what you need, when you need it. Search gives you results as you type."
+    }
+  ],
+
+  "Testimonial": [
+    {
+      "id": 5,
+      "class": "Testimonials",
+      "heading": "Evernote is a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas. All you have to do is use it.",
+      "name": "— Forbes"
+    },
+    {
+      "id": 6,
+      "class": "Testimonials",
+      "heading": "Evernote is a powerful tool for managing your tasks right alongside all of the information you work with every day.",
+      "name": "— Inc. Magazine"
+    },
+    {
+      "id": 7,
+      "class": "Testimonials",
+      "heading": "It feels like there are endless ways to use Evernote… Use it for school, work, life, and beyond.",
+      "name": "— The Verge"
+    },
+    {
+      "id": 8,
+      "class": "Testimonials",
+      "heading": "A few years ago, after my computer broke down and I lost all of the notes I had saved to my desktop, I finally decided to embrace the cloud and download Evernote. Since then, I haven’t looked back.",
+      "name": "— Entrepreneur Magazine"
+    },
+    {
+      "id": 9,
+      "class": "Testimonials",
+      "heading": "You can even send emails to Evernote and gather all of the things you need in a single place.",
+      "name": "— Business.com"
+    },
+    {
+      "id": 10,
+      "class": "Testimonials",
+      "heading": "Consider Evernote to be your go-to hub for not just to-do lists but all of your notes. The organizational possibilities are expansive, and everything syncs across all of your devices that have the app enabled, so you’ll never miss a beat.",
+      "name": "— Well + Good"
+    }
+  ],
+  "footer": [
+    { "class": "footer",
+      "head": "PRODUCT",
+      "content": "Keep important info handy by syncing your notes to all your devices."}
+  ]
+}
